@@ -1,0 +1,37 @@
+<Students>
+  <Student>
+    <Student_ID>1</Student_ID>
+    <Name>Joren Verdad</Name>
+    <Age>21</Age>
+    <Address>P-7 Villa Kananga, Butuan City</Address>
+    <Contact_Number>09512497801</Contact_Number>
+  </Student>
+  <Student>
+    <Student_ID>2</Student_ID>
+    <Name>Honey Mae</Name>
+    <Age>20</Age>
+    <Address>456 Oak Avenue, Butuan City</Address>
+    <Contact_Number>09465465466</Contact_Number>
+  </Student>
+  <Student>
+    <Student_ID>3</Student_ID>
+    <Name>Dave Balanghig</Name>
+    <Age>21</Age>
+    <Address>789 Pine Lane, Willow Creek, USA</Address>
+    <Contact_Number>09566568923</Contact_Number>
+  </Student>
+  <Student>
+    <Student_ID>4</Student_ID>
+    <Name>Christian Ubac</Name>
+    <Age>21</Age>
+    <Address>1011 Maple Drive, Sunnyville, USA</Address>
+    <Contact_Number>095465423271</Contact_Number>
+  </Student>
+  <Student>
+    <Student_ID>5</Student_ID>
+    <Name>Michael Tange</Name>
+    <Age>23</Age>
+    <Address>1213 Cedar Road, Riverton, China</Address>
+    <Contact_Number>098787654632</Contact_Number>
+  </Student>
+</Students>

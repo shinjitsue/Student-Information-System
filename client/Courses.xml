@@ -1,0 +1,68 @@
+<Courses>
+  <Course>
+    <Course_ID>1</Course_ID>
+    <Course_title>Introduction to Computer Science</Course_title>
+    <Course_Description>A survey of fundamental concepts in computer science, including programming, algorithms, data structures, and computational thinking.</Course_Description>
+    <Student_ID>1</Student_ID> 
+  </Course>
+  <Course>
+    <Course_ID>2</Course_ID>
+    <Course_title>Calculus I</Course_title>
+    <Course_Description>A rigorous introduction to differential and integral calculus, including limits, derivatives, integrals, and applications.</Course_Description>
+    <Student_ID>2</Student_ID> 
+  </Course>
+  <Course>
+    <Course_ID>3</Course_ID>
+    <Course_title>Introduction to Psychology</Course_title>
+    <Course_Description>An overview of basic psychological principles, including sensation and perception, learning and memory, motivation and emotion, and social psychology.</Course_Description>
+    <Student_ID>1</Student_ID>
+  </Course>
+  <Course>
+    <Course_ID>4</Course_ID>
+    <Course_title>Principles of Macroeconomics</Course_title>
+    <Course_Description>A study of the economy as a whole, including national income, inflation, unemployment, and economic growth.</Course_Description>
+    <Student_ID>3</Student_ID> 
+  </Course>
+  <Course>
+    <Course_ID>5</Course_ID>
+    <Course_title>Introduction to Biology</Course_title>
+    <Course_Description>An introduction to the fundamental principles of biology, including cell structure and function, genetics, evolution, and ecology.</Course_Description>
+    <Student_ID>4</Student_ID> 
+  </Course>
+  <Course>
+    <Course_ID>6</Course_ID>
+    <Course_title>Introduction to Sociology</Course_title>
+    <Course_Description>A study of human society, including social structures, groups, organizations, and social change.</Course_Description>
+    <Student_ID>5</Student_ID>
+  </Course>
+  <Course>
+    <Course_ID>7</Course_ID>
+    <Course_title>Introduction to Chemistry</Course_title>
+    <Course_Description>A study of the fundamental principles of chemistry, including atoms, molecules, chemical bonding, and reactions.</Course_Description>
+    <Student_ID>1</Student_ID>
+  </Course>
+  <Course>
+    <Course_ID>8</Course_ID>
+    <Course_title>Introduction to History</Course_title>
+    <Course_Description>A survey of major historical events and figures, from ancient times to the present.</Course_Description>
+    <Student_ID>2</Student_ID>
+  </Course>
+  <Course>
+    <Course_ID>9</Course_ID>
+    <Course_title>Introduction to Literature</Course_title>
+    <Course_Description>An exploration of classic and contemporary literary works, including poetry, fiction, drama, and nonfiction.</Course_Description>
+    <Student_ID>3</Student_ID>
+  </Course>
+  <Course>
+    <Course_ID>10</Course_ID>
+    <Course_title>Introduction to Art</Course_title>
+    <Course_Description>A survey of major art movements and styles, from ancient times to the present.</Course_Description>
+    <Student_ID>4</Student_ID>
+  </Course>
+  <Course>
+    <Course_ID>11</Course_ID>
+    <Course_title>Introduction to Music</Course_title>
+    <Course_Description>A survey of major musical genres and composers, from ancient times to the present.</Course_Description>
+    <Student_ID>5</Student_ID>
+  </Course>
+</Courses>
