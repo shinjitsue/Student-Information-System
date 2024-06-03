@@ -8,19 +8,23 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+// Implementation of the remote interface for course data
 public class CourseServiceImpl extends UnicastRemoteObject implements CourseData {
-
+    // Constructor to create the remote object
     public CourseServiceImpl() throws RemoteException {
         super();
     }
 
+    // Method to enroll a student in a course
     @Override
     public void enrollCourse(int courseID, int studentID, String courseTitle, String courseDescription) 
             throws RemoteException {
         
+        // Try-with-resources block to automatically close resources
         try (Connection conn = MyDBConnection.getConnection()) {
             conn.setAutoCommit(false); // Start transaction
 
+            // Check if course exists
             try (PreparedStatement checkCourseStmt = conn.prepareStatement(
                     "SELECT COUNT(*) FROM courses WHERE id = ?"
             )) {
